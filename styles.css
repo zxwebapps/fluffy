@@ -1,0 +1,112 @@
+
+body{
+    background-image: url(images/backg.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 10px;
+    margin: 0px;
+    
+}
+
+.header{
+    background-color: black;
+    height: 50px;
+    padding: 0px;
+}
+
+#logo{
+    height:50px;
+    width: 70px;
+}
+
+.btn{
+    margin-top: 5px;
+    margin-left: 87%;
+    position: fixed;
+    background-color: transparent;
+    border: none;
+}
+.btn2{
+    margin-top: 5px;
+    margin-left: 90%;
+    position: fixed;
+    background-color: transparent;
+    border: none;
+}
+
+.btns{
+    height: 30px;
+}
+
+.text{
+    color:whitesmoke;
+    font-family: "Open Sans";
+    margin-left: 30px;
+}
+.options{
+    margin-left: 10px;
+}
+.opts{
+    background-color: aliceblue;
+    border: none;
+    border-radius: 15px;
+    padding: 2px;
+    height: 25px;
+    width: 140px;
+}
+
+.hbtn{
+    background-color: aliceblue;
+    border: none;
+    border-radius: 15px;
+    padding: 2px;
+    height: 25px;
+    margin-top: 20px;
+    width: 100px;
+    margin-left: 10px;
+    
+}
+.price{
+    margin-right: 30px;
+}
+.chickenmenu{
+    font-family: "Open Sans";
+    color: white;
+    margin-left: 10px;
+}
+#bbq{
+    color: yellow;
+}
+#hot{
+    color: red;
+}
+.flav{
+    text-decoration: underline;
+}
+.plates{
+    font-family: "Open Sans";
+    color: white;
+    margin-left: 10px;
+}
+.extrasm{
+    font-family: "Open Sans";
+    color: white;
+    margin-left: 10px;
+}
+.headrev{
+    font-family: "Open Sans";
+    color: white;
+    margin-left: 10px;
+    text-decoration: underline;
+}
+.reviews{
+    margin-left: 20px;
+}
+.checked {
+    color: orange;
+  }
+.starsrev{
+    color: white;
+    font-family: "Open Sans";
+    height:100%;
+}
